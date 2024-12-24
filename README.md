@@ -28,7 +28,10 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀⠀Já faz um tempo que estou empenhado em conquistar todos os troféus do GitHub. Levei algum tempo para entender e alcançar cada um deles, e sei que muitos podem nem estar cientes de que isso é possível. Neste guia, você encontrará um resumo direto ao ponto de como obter cada conquista. Ainda há dois troféus que eu não consegui, porque não sei como que faz, mas se houver algum erro ou imprecisão nesse guia, por favor me avise para que eu possa corrigi-lo. Vamos juntos conquistar todos esses troféus! :)***
+  ***Ei, pessoal! Há algum tempo embarquei em uma missão divertida: conquistar todos os troféus do GitHub! Foi uma jornada cheia de descobertas, desafios e aquele frio na barriga a cada nova conquista desbloqueada.***
+
+***Percebi que muita gente nem sabe que esses troféus existem, então decidi criar este guia simples e direto para ajudar quem quiser entrar nessa aventura também. Ainda faltam dois troféus que não consegui desvendar, mas faz parte do jogo, né?***
+***Se você encontrar algo que possa melhorar ou tiver dicas sobre esses mistérios, ficarei super feliz em aprender com você. Bora conquistar todos os troféus juntos🚀✨ :)***
 
 <br/>
 
@@ -40,7 +43,7 @@
 
 | Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ? | Não é possível conseguir
+Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ? | Não é possível conseguir, ainda não foi liberado
 Open Sourcerer | ![Open Sourcerer Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/open-sourcerer-default.png) | ? | Ainda não sei como conseguir
 ||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire | ![Pair Extraordinaire Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png) | ✔️ |[Coautoria](https://docs.github.com/pt/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) em uma solicitação pull mesclada, esse é bem simples, no entanto acredito que vai ser mais facil de entender vendo esse [video](https://youtu.be/G36D8fE4Pzo?t=601), o video não é meu, mas funciona e achei bem simples.
