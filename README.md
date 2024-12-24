@@ -81,7 +81,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 
 <br/>
 
-  ### ⠀⠀⠀⠀[⭐ Linkedin](linkedin.com/in/tauã-felipe-r)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/felipetaua)
+  ### ⠀⠀⠀⠀[⭐ Linkedin](https://linkedin.com/in/tauã-felipe-r)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/felipetaua)
 
 
 <br/>
