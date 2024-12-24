@@ -76,19 +76,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 <a id="Creditos"></a>
 ## 🏆 Créditos
 
-
-<br />
-
-<div > 
-
-| [<img src="https://user-images.githubusercontent.com/60453269/217899761-dc2d4e4b-3336-419d-9076-79304290aa0a.png" width=300><br><sub> Tauã Felipe </sub>](linkedin.com/in/tauã-felipe-r) | ***Hello*** 😃  ***Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Meu chama no linkedin*** 😁 | 
-|---|---|
-
-
-</div> 
-
 <br/>
-
 
   ### ⠀⠀⠀⠀[⭐ Linkedin](linkedin.com/in/tauã-felipe-r)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/felipetaua)
 
