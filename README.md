@@ -40,7 +40,7 @@
 
 | Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ? | Ainda não sei como conseguir
+Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ? | Não é possível conseguir
 Open Sourcerer | ![Open Sourcerer Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/open-sourcerer-default.png) | ? | Ainda não sei como conseguir
 ||| <!-- this empty row is intentional to separate -->
 Pair Extraordinaire | ![Pair Extraordinaire Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png) | ✔️ |[Coautoria](https://docs.github.com/pt/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) em uma solicitação pull mesclada, esse é bem simples, no entanto acredito que vai ser mais facil de entender vendo esse [video](https://youtu.be/G36D8fE4Pzo?t=601), o video não é meu, mas funciona e achei bem simples.
